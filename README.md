@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, This is YuKongA 👋
 
 <!--
 **YuKongA/YuKongA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=YuKongA&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
