@@ -1,4 +1,4 @@
-### Hi there, This is YuKongA 👋
+### Hi there, This is YuKongA 👋 ![Visitor Count](https://profile-counter.glitch.me/YuKongA/count.svg)
 
 <!--
 **YuKongA/YuKongA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
