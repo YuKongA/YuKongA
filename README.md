@@ -32,10 +32,10 @@
     <td><a href="https://github.com/YuKongA">
         <picture>
           <source
-            srcset="https://github-readme-stats-one-bice.vercel.app/api?username=YuKongA&show_icons=true&hide_border=true&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+            srcset="https://github-readme-stats-one-bice.vercel.app/api?username=YuKongA&show_icons=true&hide_border=true&bg_color=00000000&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
             height="200" media="(prefers-color-scheme: dark)" />
           <source
-            srcset="https://github-readme-stats-one-bice.vercel.app/api?username=YuKongA&show_icons=true&hide_border=true&bg_color=ffffff&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+            srcset="https://github-readme-stats-one-bice.vercel.app/api?username=YuKongA&show_icons=true&hide_border=true&bg_color=00000000&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
             height="200" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
           <img
             src="https://github-readme-stats-one-bice.vercel.app/api?username=YuKongA&show_icons=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
@@ -46,10 +46,10 @@
     <td><a href="https://github.com/YuKongA">
         <picture height="200">
           <source
-            srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=YuKongA&hide_border=true&layout=compact&theme=dark"
+            srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=YuKongA&hide_border=true&layout=compact&bg_color=00000000&theme=dark"
             height="200" media="(prefers-color-scheme: dark)" />
           <source
-            srcset="hhttps://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=YuKongA&hide_border=true&layout=compact&bg_color=ffffff"
+            srcset="hhttps://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=YuKongA&hide_border=true&layout=compact&bg_color=00000000"
             height="200" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
           <img
             src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact"
