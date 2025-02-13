@@ -1,7 +1,7 @@
 <h3 align="center">Hi there, This is YuKongA 👋</h3>
 
 <h5 align="center">
-  <a href="https://yukonga.top/">HomePage</a> • <a href="https://t.me/YuKongA13579">Telegram</a>
+  <a href="https://yukonga.top/">HomePage</a> • <a href="https://t.me/YuKongA13579">Telegram</a> •  <a href="https://afdian.com/a/YuKongA">Afdian</a>
 </h5>
 
 <div align="center">
@@ -46,13 +46,13 @@
     <td><a href="https://github.com/YuKongA">
         <picture height="200">
           <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YuKongA&hide_border=true&layout=compact&theme=dark"
+            srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=YuKongA&hide_border=true&layout=compact&theme=dark"
             height="200" media="(prefers-color-scheme: dark)" />
           <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YuKongA&hide_border=true&layout=compact&bg_color=ffffff"
+            srcset="hhttps://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=YuKongA&hide_border=true&layout=compact&bg_color=ffffff"
             height="200" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
           <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact"
+            src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact"
             height="200" />
         </picture>
       </a>
@@ -64,7 +64,8 @@
           <source
             srcset="https://github-profile-trophy.vercel.app/?username=YuKongA&column=8&row=1&margin-w=8&theme=onedark"
             media="(prefers-color-scheme: dark)" />
-          <source srcset="https://github-profile-trophy.vercel.app/?username=YuKongA&column=8&row=1&margin-w=8"
+          <source
+            srcset="https://github-profile-trophy.vercel.app/?username=YuKongA&column=8&row=1&margin-w=8"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
           <img src="https://github-profile-trophy.vercel.app/?username=YuKongA&column=8&row=1&margin-w=8" />
         </picture>
