@@ -10,25 +10,6 @@
 
 <table width="100%" align="center">
   <tr>
-    <td><a href="https://font.yukonga.top">CJK Font Weight Test</a></td>
-    <td></span>CJK Font Weight Test</span></td>
-  </tr>
-  <tr>
-    <td><a href="https://icon.yukonga.top">HQ ICON</a></td>
-    <td></span>Get App Icons from App Store</span></td>
-  </tr>
-  <tr>
-    <td><a href="https://miuix-wasm.yukonga.top">Miuix Demo (Wasm)</a> / <a href="https://miuix-js.yukonga.top">Miuix Demo (Js)</a></td>
-    <td></span>Compose MultiPlatform UI Design</span></td>
-  </tr>
-  <tr>
-    <td><a href="https://updater-wasm.yukonga.top">Updater (Wasm)</a> / <a href="https://updater-js.yukonga.top">Updater (Js)</a></td>
-    <td></span>Get HyperOS/MIUI Recovery ROM info</span></td>
-  </tr>
-</table>
-
-<table width="100%" align="center">
-  <tr>
     <td><a href="https://github.com/YuKongA">
         <picture>
           <source
