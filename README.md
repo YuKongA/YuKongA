@@ -1,14 +1,8 @@
-<h3 align="center">Hi there, This is YuKongA 👋</h3>
+<h3 align="center">👋 Hi there, This is YuKongA 👋</h3>
 
 <h5 align="center">
   <a href="https://yukonga.top/">HomePage</a> • <a href="https://t.me/YuKongA13579">Telegram</a> • <a href="https://afdian.com/a/YuKongA">Afdian</a>
 </h5>
-
-<div align="center">
-  <picture>
-    <img src='https://profile-counter.glitch.me/YuKongA/count.svg' />
-  </picture>
-</div><br />
 
 <table width="100%" align="center">
   <tr>
