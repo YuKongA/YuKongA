@@ -31,18 +31,4 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://#gh-light-mode-only">
-        <img
-          src="https://github-profile-trophy.vercel.app/?username=YuKongA&row=1&margin-w=15&no-bg=true&no-frame=true"
-          alt="YuKongA's trophies" />
-      </a>
-      <a href="https://#gh-dark-mode-only">
-        <img
-          src="https://github-profile-trophy.vercel.app/?username=YuKongA&row=1&margin-w=15&no-bg=true&no-frame=true&theme=onestar"
-          alt="YuKongA's trophies" />
-      </a>
-    </td>
-  </tr>
 </table>
