@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi there, This is YuKongA 👋</h3>
 
 <h5 align="center">
-  <a href="https://yukonga.top/">HomePage</a> • <a href="https://t.me/YuKongA13579">Telegram</a> • <a href="https://afdian.com/a/YuKongA">Afdian</a>
+  <a href="https://yukonga.top/">HomePage</a> • <a href="https://t.me/YuKongA13579">Telegram</a> • <a href="https://ifdian.net/a/YuKongA">Afdian</a>
 </h5>
 
 <table width="100%" align="center">
