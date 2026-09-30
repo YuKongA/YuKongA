@@ -2,18 +2,16 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=24&amp;pause=300&amp;duration=1500&amp;color=4493F8&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi+there+%F0%9F%91%8B;I'm+YuKongA+%F0%9F%91%80" />
+      srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=24&amp;pause=300&amp;duration=1500&amp;color=4493F8&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=32&amp;lines=Hi+there+%F0%9F%91%8B;I'm+YuKongA+%F0%9F%91%80" />
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=24&amp;pause=300&amp;duration=1500&amp;color=0969DA&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi+there+%F0%9F%91%8B;I'm+YuKongA+%F0%9F%91%80"
-      alt="Typing SVG" />
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=24&amp;pause=300&amp;duration=1500&amp;color=0969DA&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=32&amp;lines=Hi+there+%F0%9F%91%8B;I'm+YuKongA+%F0%9F%91%80"
+      width="620" alt="Typing SVG" />
   </picture>
-</p>
-
-<h4 align="center">
+  <br />
   <a href="https://yukonga.top/">HomePage</a> •
   <a href="https://t.me/YuKongA13579">Telegram</a> •
   <a href="https://ifdian.net/a/YuKongA">Afdian</a>
-</h4>
+</p>
 
 <table width="100%" align="center">
   <tr>
