@@ -1,8 +1,8 @@
 <h3 align="center">👋 Hi there, This is YuKongA 👋</h3>
 
-<h5 align="center">
+<h4 align="center">
   <a href="https://yukonga.top/">HomePage</a> • <a href="https://t.me/YuKongA13579">Telegram</a> • <a href="https://ifdian.net/a/YuKongA">Afdian</a>
-</h5>
+</h4>
 
 <table width="100%" align="center">
   <tr>
@@ -10,9 +10,9 @@
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-stats-one-bice.vercel.app/api?username=YuKongA&show_icons=true&hide_border=true&bg_color=00000000&theme=dark&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR" />
+          srcset="https://github-stats-extended.vercel.app/api?username=YuKongA&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&theme=dark_github&role=OWNER%2CORGANIZATION_MEMBER" />
         <img
-          src="https://github-readme-stats-one-bice.vercel.app/api?username=YuKongA&show_icons=true&hide_border=true&bg_color=00000000&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR"
+          src="https://github-stats-extended.vercel.app/api?username=YuKongA&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&theme=light_github&role=OWNER%2CORGANIZATION_MEMBER"
           height="200" alt="GitHub Stats" />
       </picture>
     </td>
@@ -20,9 +20,9 @@
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=YuKongA&hide_border=true&layout=compact&langs_count=6&bg_color=00000000&theme=dark" />
+          srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=YuKongA&hide_border=true&layout=compact&langs_count=8&bg_color=00000000&theme=dark_github" />
         <img
-          src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=YuKongA&hide_border=true&layout=compact&langs_count=6&bg_color=00000000"
+          src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=YuKongA&hide_border=true&layout=compact&langs_count=8&bg_color=00000000&theme=light_github"
           height="200" alt="Top Languages" />
       </picture>
     </td>
