@@ -20,9 +20,9 @@
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=YuKongA&hide_border=true&layout=compact&langs_count=8&bg_color=00000000&theme=dark_github" />
+          srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=YuKongA&hide_border=true&layout=compact&langs_count=8&bg_color=00000000&theme=dark_github" />
         <img
-          src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=YuKongA&hide_border=true&layout=compact&langs_count=8&bg_color=00000000&theme=light_github"
+          src="https://github-stats-extended.vercel.app/api/top-langs/?username=YuKongA&hide_border=true&layout=compact&langs_count=8&bg_color=00000000&theme=light_github"
           height="200" alt="Top Languages" />
       </picture>
     </td>
