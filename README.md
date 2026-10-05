@@ -19,9 +19,9 @@
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
-          srcset="https://github-stats-extended.vercel.app/api?username=YuKongA&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&theme=dark_github&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+          srcset="https://github-stats-extended.vercel.app/api?username=YuKongA&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&theme=dark_github&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR" />
         <img
-          src="https://github-stats-extended.vercel.app/api?username=YuKongA&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&theme=light_github&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+          src="https://github-stats-extended.vercel.app/api?username=YuKongA&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&theme=light_github&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR"
           height="200" alt="GitHub Stats" />
       </picture>
     </td>
